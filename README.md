@@ -26,11 +26,11 @@ use 16 distinguishable systems used by Sander et al.
 
 Below results that were presented in the manuscript in abridged form
 
-* Extended Results for DL20: <dl20-extended-results/>
+* Extended Results for DL20: [dl20-extended-results/](dl20-extended-results/])
 
-* Full DL20 leaderboard with RUBRIC-MRR including systems that generated content via GPT: <results-leaderboard-with-generation-systems/>
+* Full DL20 leaderboard with RUBRIC-MRR including systems that generated content via GPT: [results-leaderboard-with-generation-systems/>](results-leaderboard-with-generation-systems/)
 
-* Manual Verification for DL20  query 940547, "When did rock'n'roll begin?": <dl20-manual-verification/>
+* Manual Verification for DL20  query 940547, "When did rock'n'roll begin?": [dl20-manual-verification/](dl20-manual-verification/)
 
 
 # Workbench Software
@@ -62,24 +62,24 @@ Input data for CAR is provided in folder <iinput-data/>
 
 ## Phase 1: Generated Grading Rubrics
 
-Generated test questions amd nuggets for query-specific rubrics are in folder <phase1-data/>
+Generated test questions amd nuggets for query-specific rubrics are in folder [phase1-data/](phase1-data/)
 
 ## Phase 2:  RUBRIC Grading
 
-Grade annotationsn for  (question) RUBRIC, nugget-RUBRIC, and all direct grading prompts are in folder <phase2-data/>
+Grade annotationsn for  (question) RUBRIC, nugget-RUBRIC, and all direct grading prompts are in folder [phase2-data/](phase2-data/)
 
 Since files are too large for github, we further compress. Please uncompress `xz`, but keep `gz` compression.
 
 
 ## Phase 3: RUBRIC-based Evaluation Metrics
 
-We provide all generated trec_eval compatible "qrels" files in this folder <phase3-qrels/>
+We provide all generated trec_eval compatible "qrels" files in this folder [phase3-qrels/](phase3-qrels/)
 
 
 
 ## Results
 
-Leaderboard correlation results are found in filder <results-leaderboard-correlation/> 
+Leaderboard correlation results are found in filder [results-leaderboard-correlation/](results-leaderboard-correlation/)
 
 (nan's indicate that no grade with this minimum grade level is available, example binary grading prompts or Thomas for level  larger than 2)
 
