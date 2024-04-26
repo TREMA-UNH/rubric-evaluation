@@ -51,7 +51,7 @@ Each grade annotation appraoch is denoted as a `prompt_class`. Here the semantic
 
 * `QuestionSelfRatedUnanswerablePromptWithChoices`:  (question-) RUBRIC 
 * `NuggetSelfRatedPrompt`: Nugget RUBRIC
-* `Thomas. Sun, Sun\_few, HELM, FagB, FagB\_few`: direct grading prompts
+* `Thomas. Sun, Sun_few, HELM, FagB, FagB_few`: direct grading prompts
 
 
 ## Preprocessing: Input Data
