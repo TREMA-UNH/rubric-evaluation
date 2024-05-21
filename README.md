@@ -28,7 +28,7 @@ use 16 distinguishable systems used by Sander et al.
 
 Below results that were presented in the manuscript in abridged form
 
-* Extended Results for DL20: [dl20-extended-results/](dl20-extended-results/README.mkd)
+* Extended Results for DL20: [dl20-extended-results/](dl20-extended-results/README.md)
 
 * Full DL20 leaderboard with RUBRIC-MRR including systems that generated content via GPT: [results-leaderboard-with-generation-systems/>](results-leaderboard-with-generation-systems/)
 
