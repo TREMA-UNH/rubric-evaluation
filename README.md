@@ -32,7 +32,7 @@ Below results that were presented in the manuscript in abridged form
 
 * Full DL20 leaderboard with RUBRIC-MRR including systems that generated content via GPT: [results-leaderboard-with-generation-systems/>](results-leaderboard-with-generation-systems/)
 
-* Manual Verification for DL20  query 940547, "When did rock'n'roll begin?": [dl20-manual-verification/](dl20-manual-verification/)
+* Manual Verification for DL20  query 940547, "When did rock'n'roll begin?": [dl20-manual-verification/](dl20-manual-verification/README.md)
 
 
 # Workbench Software
