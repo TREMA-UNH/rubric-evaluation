@@ -2,6 +2,8 @@
 
 -- Online Appendix ---
 
+(5/21/2024: Fix:  hyperlinks to directories (which did not work in the anonymized repository)
+
 # TREC  Data Sets used in Experimental Evaluation
 
 - **dl19**: [TREC DL 2019](https://microsoft.github.io/msmarco/TREC-Deep-Learning)  Using 43 queries in the question-form from
@@ -26,7 +28,7 @@ use 16 distinguishable systems used by Sander et al.
 
 Below results that were presented in the manuscript in abridged form
 
-* Extended Results for DL20: [dl20-extended-results/](dl20-extended-results/])
+* Extended Results for DL20: [dl20-extended-results/](dl20-extended-results/README.mkd)
 
 * Full DL20 leaderboard with RUBRIC-MRR including systems that generated content via GPT: [results-leaderboard-with-generation-systems/>](results-leaderboard-with-generation-systems/)
 
