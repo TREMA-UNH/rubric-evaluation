@@ -30,7 +30,7 @@ Below results that were presented in the manuscript in abridged form
 
 * Extended Results for DL20: [dl20-extended-results/](dl20-extended-results/README.md)
 
-* Full DL20 leaderboard with RUBRIC-MRR including systems that generated content via GPT: [results-leaderboard-with-generation-systems/>](results-leaderboard-with-generation-systems/)
+* Full DL20 leaderboard with RUBRIC-MRR including systems that generated content via GPT: [results-leaderboard-with-generation-systems/>](results-leaderboard-with-generation-systems/README.md)
 
 * Manual Verification for DL20  query 940547, "When did rock'n'roll begin?": [dl20-manual-verification/](dl20-manual-verification/README.md)
 
