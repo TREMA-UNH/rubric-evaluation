@@ -11,8 +11,8 @@ Extended Results on TREC DL20
 
 |  | Autograder Qrels | Autograder Cover |  |
 | --- | :-- | :-- | :-- |
-| DL20 participants | [Results](dl20-qrels.md) + leaderboad correlation| [Results](dl20-cover.md) with stderr |  |
-| ChatGPT-methods | [Results](generation-methods-dl20-qrels.md) with stderr + leaderboard rank | [Results](generation-methods-dl20-cover.md) + leaderboard rank |  |
+| DL20 participants | [Results](dl20-qrels.md) + leaderboad correlation| [Results](dl20-cover.md)  |  |
+| ChatGPT-methods | [Results](generation-methods-dl20-qrels.md)  with official leaderboard ranks | [Results]generation-methods-dl20-cover.md)  |  |
 
 
 
@@ -23,6 +23,7 @@ The [autograde-cover metric](dl20-cover.md) is based on how many of nuggets/ques
 In addition to ranking based methods from DL20 participants, we apply the autograder method to ChatGPT generated IR system responses (both for [autograder-qrels](generation-methods-dl20-qrels.md) and [autograder-cover](generation-methods-dl20-cover.md)). We find that question-based autograder-cover obtains the most stable results.
 
 
+While [Qrels-mrr](generation-methods-dl20-qrels.md) favored the succinctness of gpt4-question, when [coverage is a priority](generation-methods-dl20-cover.md), longer texts such as gpt4-wikipedia are obtaining the strongest results.
 
 
 
