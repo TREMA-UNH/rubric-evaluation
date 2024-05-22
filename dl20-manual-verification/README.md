@@ -1,1 +1,5 @@
-Please [click here](DL20-display-selection-rocknroll.html?v=c7a37b7b) to view the HTML in raw
+
+Due to an unexpected change in 4open.science, to view the HTML please use this workaround:
+
+1.  [click on DL20-display-selection-rocknroll.html](DL20-display-selection-rocknroll.html)
+2. click on "View raw" to see the HTML.
