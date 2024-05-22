@@ -12,7 +12,7 @@ Extended Results on TREC DL20
 |  | Autograder Qrels | Autograder Cover |  |
 | --- | :-- | :-- | :-- |
 | DL20 participants | [Results](dl20-qrels.md) + leaderboad correlation| [Results](dl20-cover.md)  |  |
-| ChatGPT-methods | [Results](generation-methods-dl20-qrels.md)  with official leaderboard ranks | [Results]generation-methods-dl20-cover.md)  |  |
+| ChatGPT-methods | [Results](generation-methods-dl20-qrels.md)  with official leaderboard ranks | [Results](generation-methods-dl20-cover.md)  |  |
 
 
 
