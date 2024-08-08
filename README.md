@@ -37,7 +37,7 @@ Below results that were presented in the manuscript in abridged form
 
 # Workbench Software
 
-All experiments can be reproduced with the [Autograder Workbench](https://github.com/TREMA-UNH/autograding-workbench)  software.
+All experiments can be reproduced with the [RUBRIC Autograder Workbench](https://github.com/TREMA-UNH/rubric-grading-workbench)  software.
 
 
 
